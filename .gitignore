@@ -1,4 +1,7 @@
 node_modules/
+dist/
+generated-artifacts/
+uploads/
 .env
 .env.local
 *.log
